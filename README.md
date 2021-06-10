@@ -16,4 +16,4 @@
 
 
 
-![The Louvre](https://images.unsplash.com/photo-1602749986128-6e4da3f31381?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1234&q=80 "Logo Title Text 1")
+![The Louvre](https://images.unsplash.com/photo-1602749986128-6e4da3f31381?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=550&q=80 "The Louvre")

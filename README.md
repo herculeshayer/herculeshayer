@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a MERN stack Workout Blog hosted on AWS. I plan to complete a Pomodoro Timer using a MERN or PERN stack.
+- 🔭 I’m currently looking for an intern/junior software developer position simultaneously I'm working on a MERN stack Workout Blog hosted on AWS. I plan to complete a Pomodoro Timer using a MERN or PERN stack in the future.
 - 🌱 I’m currently learning MERN, RESTful APIs, Unit/Integration Testing, DS&A, Git Workflows, and much more
 - 👯 I’m looking to collaborate on anything related with Test Driven Development
 - 🤔 I’m looking for help with a couple of backend issues on my Workout Blog, Grit & Gain

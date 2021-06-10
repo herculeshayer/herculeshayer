@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a MERN stack Workout Blog hosted on AWS. I plan to complete a Pomodoro Timer using a MERN or PERN stack.
 - 🌱 I’m currently learning MERN, RESTful APIs, Unit/Integration Testing, DS&A, Git Workflows, and much more
 - 👯 I’m looking to collaborate on anything related with Test Driven Development

@@ -9,7 +9,7 @@
 - 💬 Ask me about weightlifting, hiking, reading, movies, and music
 - 📫 How to reach me: hhhayer@gmail.com 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: the mitochondria is the powerhouse of the cell
+- ⚡ Fun fact: ketchup was sold as medicine in the 1830s
 
 
 

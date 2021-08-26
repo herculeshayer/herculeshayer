@@ -17,5 +17,6 @@
 
 
 
-![Japan Street](https://images.unsplash.com/photo-1501560379-05951a742668?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=80 "Japan Street")
+![Japan Street](https://images.unsplash.com/photo-1501560379-05951a742668?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=650&q=80 "Japan Street")
+
 Photo Credit: Alex Knight @agk42

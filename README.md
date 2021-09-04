@@ -13,10 +13,7 @@
 
 
 
+![puffy-circle](https://user-images.githubusercontent.com/64183136/132106674-7ed705c9-bce2-4d63-8ece-11dc29335987.jpg)
 
-
-
-
-![dunkirk](http://thecinemaarchives.com/wp-content/uploads/2018/03/dunkirk-flames.jpg")
 
 <!-- <sub>Photo Credit: Aaron Thomas - @aaronphs</sub> -->

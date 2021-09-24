@@ -2,10 +2,8 @@
 
 - 🔭 I’m currently looking for an **intern/junior software developer** position.
 - 🕊️ I've completed a Workout Blog made using the MERN stack and have hosted it on AWS. 
-- 🧮 I'm currently working on a Pomodoro Timer using PostgreSQL, Express, Vanilla JavaScript, and Node -- hosted using Heroku.
+- 🧮 I'm currently working on a Pomodoro Timer using PostgreSQL, Express, Vanilla JavaScript, and Node; Hosted on Heroku.
 - 🌱 I’m currently learning MERN, RESTful APIs, Unit/Integration Testing, DS&A, Git Workflows, and much more
-- 👯 I’m looking to collaborate on anything related with having fun
-- 🤔 I’m looking for help with a couple of backend issues on my Workout Blog: Grit & Gain
 - 💬 Ask me about weightlifting, hiking, reading, movies, and music
 - 📫 How to reach me: hhhayer@gmail.com 
 - 😄 Pronouns: he/him

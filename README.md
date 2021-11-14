@@ -9,8 +9,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ketchup was sold as medicine in the 1830s
 
+![goku-v-kidbuu](https://user-images.githubusercontent.com/64183136/141665139-eb563bb7-c8cb-4217-b5c1-d26ca96380e0.gif)
 
 
-![street-art](https://images.unsplash.com/photo-1494435845424-47a556728b93?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80)
-
-<sub>[Photo Credit: Daniel Posthuma](https://unsplash.com/@danposthuma)</sub>

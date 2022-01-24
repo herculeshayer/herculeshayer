@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for a **software developer** position.
-- 🕊️ I've completed a # of frontend and full-stack applications, check them out!
-- 🧮 I'm currently working on a Pomodoro Timer using PostgreSQL, Express, Vanilla JavaScript, and Node; Hosted on Heroku.
-- 🌱 I’m currently learning about UI/UX, Java Spring Boot, TDD, etc.
+- 🔭 I’m currently looking for a **software developer** position
+- 🕊️ Checkout the frontend, backend, and full-stack applications I've completed
+- 🧮 I'm currently working on a Pomodoro Timer using SASS, PostgreSQL, Express, React, and Node; Hosted on Netlify & Heroku
+- 🌱 I’m currently learning about UI/UX, Java Spring Boot, TDD, etc
 - 💬 Ask me about weightlifting, hiking, reading, movies, and music
 - 📫 How to reach me: hhhayer@gmail.com 
 - 😄 Pronouns: he/him
